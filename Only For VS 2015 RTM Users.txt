@@ -1,0 +1,4 @@
+This update fixes the annoying editor issues that were on display in ReSharper 9.1.2 and that included inverted keyboard input, disappearing caret, and focus switching off the text editor, potentially resulting in Visual Studio crashes.
+Additionally, this update fixes ReSharper’s XAML code generation features in Visual Studio 2015 RTM.
+If you use Visual Studio 2015 RTM, this is a recommended update for you. If you’re on older versions of Visual Studio, namely 2013, 2012 and 2010, you can skip this update.
+If you have previously applied one of the suggested workarounds to improve the behavior of ReSharper 9.1.2, I suggest that you now revert the changes so that Visual Studio uses a single UI for displaying both ReSharper’s quick-fixes and Visual Studio’s quick actions.
